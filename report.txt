@@ -1,0 +1,45 @@
+In this association rules mining project, I have learnt how to use database to
+analyze data and find the relationship between data, and how to use JAVA to 
+connect with database and deal with the query results.Specially, through this
+project, I built the concept what the data mining is and how to implement it.
+Besides, it is a chance for me to practice programming using sql. 
+
+At the beginning of this project, I faced a lot of problems. 
+The important one is how to build the development enviroment. For example, 
+how to connect JAVA program with oracle. I read the sample code provided by the 
+webpage of cise web site. Based on the sample code, I wrote the connection code 
+by myself.
+
+Another challenging thing is how to debug the  sql code. If I wrote the sql code
+directly in oracle, I had to type it into oralce every time which is inefficient
+and boring. At first, I wanted to use the SQL Developer software. Unfortunatelly,
+I spent one day configuring it in my laptop, but it could not connect with 
+oracle. So I had to figure out another method: I wrote a shell script which
+would run the sql code once I run the shell scripte. This method makes it
+easier to debug sql code.
+
+Of course, how to implement the apriori rule is another problem. At first, I 
+looked up to understand the algorithms of the association rules mining. Then, I 
+figured out how to combine the JAVA code with sql code. Because it would take 
+several minutes to run JAVA program, I kept in mind how to make the query more
+efficient and program simpler. 
+
+Through this program, I practiced programming by using sql a lot. Now I am 
+familiar with basic database operation and commom debug method.
+
+Below are some of the materials I refer to:
+1) "Mining Association Rules between Sets of Items in Large Databases": 
+Rakesh Agrawal, Tomasz Imielinski, Arun Swami
+
+2)"Fast Algorithms for Mining Association Rules":
+Rakesh Agrawal Ramakrishnan Srikant
+
+3)http://en.wikipedia.org/wiki/Association_rule_learning
+4)http://docs.oracle.com/javase/6/docs/api/
+5)http://www.youtube.com/watch?v=0lCvvF0Wdio&feature=related
+6)http://www.youtube.com/watch?v=m3o75ur0MJs
+
+
+
+ 
+
